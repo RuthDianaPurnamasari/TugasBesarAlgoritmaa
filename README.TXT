@@ -1,3 +1,6 @@
+Nama  : Ruth Diana Purnamasari Sagala
+NPM   : 714220042
+Kelas : 2B D4-Teknik Informatika
 ------------------------------------------------------------------------
 This is the project README file. Here, you should describe your project.
 Tell the reader (someone who does not know anything about this project)
